@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on some interesting projects based on LLM that can be useful for data analysis.<br>👯 I’m looking to collaborate on latest technologies in the field of data science, data analysis and GenAI.<br>🌱 I’m currently learning about latest trends in LLM and their application in real world.<br>💬 Ask me about<br>⚡ Fun fact - I am good badminton and basketball player.
+🔭I'm currently working on some interesting projects based on LLM that can be useful for data analysis.<br>👯 I’m looking to collaborate on latest technologies in the field of data science, data analysis and GenAI.<br>🌱 I’m currently learning about latest trends in LLM and their application in real world.<br>💬 Ask me about data science<br>⚡ Fun fact - I am good badminton and basketball player.
 
 
 # 💻 Tech Stack:
